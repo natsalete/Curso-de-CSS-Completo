@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+  }
+  
+  h1 {
+    color: #13a3a8;
+    border-top: 5px solid black;
+    border-left: 5px solid red;
+    border-right: 5px solid blue;
+    border-bottom: 5px solid orange;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgb(146, 228, 228);
+    /* margin: 30px 70px 150px 20px; */
+  }
+  
+  p {
+    color: rgb(8, 8, 58);
+    margin-bottom: 40px;
+    margin-left: 20px;
+  }
+  
+  .exemplo-back {
+    height: 100px;
+    background: gray url("../img/city.jpg") no-repeat center;
+    background-size: cover;
+    margin-bottom: 100px;
+  }
+  
+  .botao{
+    margin-left: 33%;
+    background-color: green;
+    color: #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+
+  .botao:hover{
+    background: blue;
+  }
