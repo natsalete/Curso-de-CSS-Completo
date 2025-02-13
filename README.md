@@ -51,5 +51,3 @@ Se você deseja contribuir para este repositório, sinta-se à vontade para abri
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
-
-Agradecemos por se juntar a nós neste curso de CSS! Esperamos que você aprenda e se divirta ao longo do caminho.
